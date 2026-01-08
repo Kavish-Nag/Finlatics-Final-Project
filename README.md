@@ -3,7 +3,6 @@ Online Advertising Performance Data
 The dataset provides insights into the online advertising performance of a company, referred to as "Company X", from April 1, 2020, to June 30, 2020. The currency used for transactions is the US dollar.
 
 Metrics:
-
 Day: Date of the advertising campaign.
 Campaign: A segmentation variable set by Company X to target specific groups of users with advertisements.
 User Engagement: Indicates the level of engagement of users targeted by the advertising campaign.
